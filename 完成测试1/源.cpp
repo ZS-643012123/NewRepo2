@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main() {
-	//完成测试1.1
+	//怎么回事
 	int n, k;
 	cin >> n >> k;//n把钥匙k个老师要用
 	int m = n;
